@@ -12,15 +12,15 @@
 
 <div align="center">
  
-$\color{#FFD6AD}★$ $\color{#FF8300}Hello$ $\color{#FF8300}i'm$ $\color{#FF8300}ZLP$ $\color{#FF8300}or$ $\color{#FF8300}Zlp$
+$\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{Hello i'm ZLP or Zlp}}$
 
-$\color{#FFD6AD}★$ $\color{#FF8300}I'm$ $\color{#FF8300}playing$ $\color{#FF8300}Roblox$ $\color{#FF8300}and$ $\color{#FF8300}pony$ $\color{#FF8300}town$ $\color{#FF8300}game!$
+$\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{i'm playing Roblox and pony town game!}}$
 
-$\color{#FFD6AD}★$ $\color{#FF8300}It's$ $\color{#FF8300}really$ $\color{#FF8300}hard$ $\color{#FF8300}to$ $\color{#FF8300}write$ $\color{#FF8300}English,$ $\color{#FF8300}I$ $\color{#FF8300}only$ $\color{#FF8300}write$ $\color{#FF8300}a$ $\color{#FF8300}little$
+$\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{it's really hard to write English I only write a little}}$
 
-$\color{#FFD6AD}★$ $\color{#FF8300}I'm$ $\color{#FF8300}from$ $\color{#FF8300}Malaysia.$ $\color{#FF8300}I'm$ $\color{#FF8300}good$ $\color{#FF8300}with$ $\color{#FF8300}my$ $\color{#FF8300}friends$
+$\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{i'm from Malaysia. i'm good with my friend^^}}$
 
-$\color{#FFD6AD}★$ $\color{#FF8300}My$ $\color{#FF8300}yumeshipper$ $\color{#FF8300}mannequin$ $\color{#FF8300}mark$
+$\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{my yumeshipper mannequin Mark}}$
 
 <img width="214" height="200" alt="ddc9211bb27306a4ea973778c7620af7" src="https://github.com/user-attachments/assets/f33388de-80ec-463f-a4e3-bd7c5384cace" />
 
