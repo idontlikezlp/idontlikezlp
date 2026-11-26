@@ -18,7 +18,7 @@ $\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{i'm playing Roblox and pony town
 
 $\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{it's really hard to write English I only write a little}}$
 
-$\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{i'm from Malaysia. i'm good with my friend^^}}$
+$\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{i'm from Malaysia. i'm good with my friend}}$
 
 $\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{my yumeshipper mannequin Mark}}$
 
