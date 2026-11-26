@@ -51,6 +51,5 @@ $\color{#FFFFFF}art$ $\color{#9E1512}by$ $\color{#9E1512}Zan$
 
 <img width="720" height="576" alt="Screenshot_2026-11-16-13-41-26-97" src="https://github.com/user-attachments/assets/650d1b20-a6a2-4d44-95a3-7700d040bafe" />
 
-<img width="26" height="21" alt="2f251f17_original" src="https://github.com/user-attachments/assets/982a9b75-33e9-4555-bd7b-27e83a4a52b3" />
-$\textcolor{#5500DB}{\text{art by rock}}$<img width="26" height="21" alt="7a2cd3de_original" src="https://github.com/user-attachments/assets/dea101f9-bcb0-4b80-85c5-8397b0503684" />
+<img width="26" height="21" alt="2f251f17_original" src="https://github.com/user-attachments/assets/982a9b75-33e9-4555-bd7b-27e83a4a52b3" />$\textcolor{#5500DB}{\text{art by rock}}$<img width="26" height="21" alt="7a2cd3de_original" src="https://github.com/user-attachments/assets/dea101f9-bcb0-4b80-85c5-8397b0503684" />
 
