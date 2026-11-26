@@ -10,13 +10,15 @@
 <img width="99" height="56" alt="Untitled498_20261115133425" src="https://github.com/user-attachments/assets/920f751b-0a62-48c2-bee8-a0d804531d01" />
 <img width="99" height="56" alt="Untitled498_20261115133536" src="https://github.com/user-attachments/assets/a5bdd84a-5da6-4568-b35f-881f3461fd75" />
 
+<img width="260" height="26" alt="dividers-009" src="https://github.com/user-attachments/assets/ddeaaf03-b75a-4fec-9169-3b478e065d37" />
+
 </td>
 </tr>
 </table>
 
 <img width="768" height="576" alt="VID_20261018155927-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/eb2ce578-c84b-4755-8382-e0679eb5d7df" />
 
-***
+<img width="260" height="26" alt="dividers-009" src="https://github.com/user-attachments/assets/b286e6cf-da5d-4e9f-8b3b-1e63b91aadfd" />
 
 <div align="center">
  
@@ -41,13 +43,13 @@ $\color{#FFD6AD}★$ $\textcolor{#FF8300}{\text{my yumeshipper mannequin Mark}}$
 
 $\color{#FFD800}art$ $\color{#FFFFFF}by$ $\color{#9E1512}fern$
 
-***
+<img width="600" height="50" alt="dividers-038" src="https://github.com/user-attachments/assets/4855c967-3438-4d54-9b16-0621f0c87d7f" />
 
 <img width="720" height="758" alt="Screenshot_2026-11-04-18-07-29-65" src="https://github.com/user-attachments/assets/4508428a-2cc4-4dcc-88b7-6cffabfaae37" />
 
 $\color{#FFFFFF}art$ $\color{#9E1512}by$ $\color{#9E1512}Zan$
 
-***
+<img width="600" height="50" alt="dividers-038" src="https://github.com/user-attachments/assets/d37f3611-b098-49c1-bf32-92e9f0d34ff6" />
 
 <img width="720" height="576" alt="Screenshot_2026-11-16-13-41-26-97" src="https://github.com/user-attachments/assets/650d1b20-a6a2-4d44-95a3-7700d040bafe" />
 
